@@ -1,0 +1,10 @@
+The audio assets that you will need to include are:
+● Background music for the game intro (when the level first starts) GOT
+● Background music for the “StartScene” scene.
+● Background music for when ghosts are in their normal state.
+● Background music for when the ghosts are in their scared state.got
+● Background music for when at least one ghost is in its dead state.got
+● Sound effect for when PacStudent is moving but not eating a pellet. got
+● Sound effect for when Pacstudent eats a pellet.GOT
+● Sound effects for when PacStudent collides with a wall. GOT
+● Sound effect for PacStudent’s death. GOT
